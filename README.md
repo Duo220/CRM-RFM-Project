@@ -1,1 +1,2 @@
 # CRM-RFM-Project
+RT bank is one of the largest banks that there are more than 1000 branches across Canada. The managements want to know Customer loyalty and their sales contribution by segments defined with RFM methodology. The request is to have a robust and long term production solution which can help Busines – CRM Services department to improve profitability and increase customer loyalty through respective Campaign Planning & Design based on result of analysis. 
